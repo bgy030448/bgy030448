@@ -7,7 +7,7 @@
 
 `Problem` → `Requirement` → `Flow & Policy` → `Handoff` → `Validation`
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://it-planner-portfolio-y.sungwonhong.chatgpt.site)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://it-planner-portfolio-gayeonbaek.sungwonhong.chatgpt.site)
 [![LinkUs Case Study](https://img.shields.io/badge/LinkUs_Case_Study-0B3470?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/LinkUs-IT-3ba807266361817bae22c40d0f20037f?source=copy_link)
 [![Email](https://img.shields.io/badge/bgy030448%40naver.com-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:bgy030448@naver.com)
 
@@ -44,7 +44,7 @@
 - 인증·게시물·채팅·신뢰·관리자 영역의 5개 핵심 QA 시나리오 검증
 - 공식 Front 역할에서 기획 문서·기능 정책·통합 QA까지 기여 범위 확장
 
-[전체 기획 사례 보기](https://www.notion.so/LinkUs-IT-3ba807266361817bae22c40d0f20037f?source=copy_link) · [Repository](https://github.com/JephyrWing/project_linkus) · [Portfolio](https://it-planner-portfolio-y.sungwonhong.chatgpt.site/projects/project-01)
+[전체 기획 사례 보기](https://www.notion.so/LinkUs-IT-3ba807266361817bae22c40d0f20037f?source=copy_link) · [Repository](https://github.com/JephyrWing/project_linkus) · [Portfolio](https://it-planner-portfolio-gayeonbaek.sungwonhong.chatgpt.site/projects/project-01)
 
 ### 02. Questlog · 회복 중심 AI 루틴 서비스 `In Progress`
 
@@ -55,7 +55,7 @@
 - 반응형·키보드·ARIA·reduced-motion 회귀 기준 수립
 - 완료되지 않은 기능과 성과는 완료처럼 표시하지 않음
 
-[전체 기획 사례 보기](https://www.notion.so/Questlog-IT-3bb807266361813d944ae247870f46d8?source=copy_link) · [Repository](https://github.com/jongshh/reminder) · [Portfolio](https://it-planner-portfolio-y.sungwonhong.chatgpt.site/projects/project-02)
+[전체 기획 사례 보기](https://www.notion.so/Questlog-IT-3bb807266361813d944ae247870f46d8?source=copy_link) · [Repository](https://github.com/jongshh/reminder) · [Portfolio](https://it-planner-portfolio-gayeonbaek.sungwonhong.chatgpt.site/projects/project-02)
 
 ## My planning standard
 
@@ -80,6 +80,6 @@
 
 ### Contact
 
-- Portfolio · [it-planner-portfolio-y.sungwonhong.chatgpt.site](https://it-planner-portfolio-y.sungwonhong.chatgpt.site)
+- Portfolio · [it-planner-portfolio-gayeonbaek.sungwonhong.chatgpt.site](https://it-planner-portfolio-gayeonbaek.sungwonhong.chatgpt.site)
 - Email · [bgy030448@naver.com](mailto:bgy030448@naver.com)
 - GitHub · [@bgy030448](https://github.com/bgy030448)
