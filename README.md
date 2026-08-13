@@ -55,7 +55,7 @@
 - 반응형·키보드·ARIA·reduced-motion 회귀 기준 수립
 - 완료되지 않은 기능과 성과는 완료처럼 표시하지 않음
 
-[Repository](https://github.com/jongshh/reminder) · [Portfolio](https://it-planner-portfolio-y.sungwonhong.chatgpt.site/projects/project-02)
+[전체 기획 사례 보기](https://www.notion.so/Questlog-IT-3bb807266361813d944ae247870f46d8?source=copy_link) · [Repository](https://github.com/jongshh/reminder) · [Portfolio](https://it-planner-portfolio-y.sungwonhong.chatgpt.site/projects/project-02)
 
 ## My planning standard
 
