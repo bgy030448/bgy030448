@@ -1,69 +1,83 @@
-# Gayeon Baek | 백가연
+# 백가연 · Gayeon Baek
 
-IT Service Planner turning product decisions into buildable systems.
+**IT 서비스 기획 · UX**
 
-제품의 의도를 구현 가능한 요구사항·정책·데이터/API·검증 기준으로 바꾸는 IT 서비스 기획자입니다. 프론트엔드 구현 경험을 바탕으로 기획과 개발 사이의 빈틈을 줄입니다.
+### 사용자가 겪는 어려움에서 기획을 시작합니다.
 
-[Portfolio](https://it-planner-portfolio-gayeonbaek.sungwonhong.chatgpt.site) · [LinkUs 기획서](https://www.notion.so/LinkUs-IT-3ba807266361817bae22c40d0f20037f?source=copy_link) · [Questlog 기획서](https://www.notion.so/Questlog-IT-3bb807266361813d944ae247870f46d8?source=copy_link) · [Email](mailto:bgy030448@naver.com)
+감정을 정리하지 못해 기록을 미루거나, 일정이 달라져 계획을 실행하지 못하는 순간에 관심을 둡니다. 사용자가 하려는 일과 그 일을 어렵게 만드는 조건을 살피고, 다음 행동을 선택할 수 있도록 서비스를 설계합니다.
 
----
+요구사항과 사용자 흐름을 정리하고 프론트엔드 구현에 참여하면서, 기획한 이용 조건과 처리 방식이 실제 화면에서도 이어지는지 확인했습니다.
 
-## Selected Work | 주요 프로젝트
-
-### LinkUs — Location-first Local Community `Delivered`
-
-내 주변의 게시물·대화·운영이 하나의 지도 맥락에서 이어진다면?
-
-프론트엔드 담당으로 시작해 요구사항 정리, 화면 정책, 예외 처리, 통합 QA까지 역할을 확장했습니다.
-
-| Product Definition | Delivery Scope | Implementation | Validation |
-|:---:|:---:|:---:|:---:|
-| 59 requirements | 35 / 98 WBS | 78 non-merge commits | 5 end-to-end flows |
-| Screen · Route · Data · API · Acceptance | Planning · UX · Frontend · QA | 57 files · 19,649 changed lines | Auth · Post · Chat · Trust · Admin |
-
-- 열람은 Guest에게 열고 작성·좋아요·신고 시점에 인증을 요구하도록 정책을 나눴습니다.
-- MySQL은 영구 원장, Redis는 최근·위치 정보 인덱스로 책임을 분리했습니다.
-- `Initial · Empty · Loaded · Submitting · Failed · Forbidden` 상태와 복구 행동을 정의했습니다.
-- Frontend production build와 5개 핵심 여정을 확인했습니다. 번들 최적화·Backend 테스트 환경·자동 E2E는 남은 과제입니다.
-
-[Planning Source](https://www.notion.so/LinkUs-IT-3ba807266361817bae22c40d0f20037f?source=copy_link) · [Repository](https://github.com/JephyrWing/project_linkus) · [Portfolio Case](https://it-planner-portfolio-gayeonbaek.sungwonhong.chatgpt.site/projects/project-01)
-
-### Questlog — Recovery-centered AI Routine `In Progress`
-
-완벽한 연속 기록보다, 실패 후 48시간 안에 다시 돌아오는 경험을 설계합니다.
-
-UX·Visual 방향을 맡고 기획과 프론트엔드 구현을 공동으로 수행하며, 회복 선택지와 접근성 기준, AI 제안과 규칙 기반 판단의 경계를 설계하고 있습니다.
-
-| Product Definition | My Delivery Scope | Contribution | Data & Permission Policy |
-|:---:|:---:|:---:|:---:|
-| 124 requirements | 11 owned + 18 shared WBS | 19 GitHub contributions | 13 tables · 26 RLS · 19 events |
-| Acceptance · WBS · Test IDs | UX · Visual · Frontend · QA | 개인 기여 기록 | 동의 기반 분석 · PII 제외 |
-
-- 하루 퀘스트를 최대 3개로 제한하고, 5–10분 회복 버전·무감점 보류·내일 이동을 제공합니다.
-- AI는 목표 분해와 난이도를 제안하고, 보상·상태·권한은 예측 가능한 Server/Rule이 결정합니다.
-- 분석 동의 이후에만 이벤트를 수집하며 목표·메모·이메일은 분석 속성에서 제외합니다.
-- Planned scope, implemented code, test evidence, user outcome을 서로 다른 근거로 구분합니다.
-
-[Planning Source](https://www.notion.so/Questlog-IT-3bb807266361813d944ae247870f46d8?source=copy_link) · [Repository](https://github.com/jongshh/reminder) · [Portfolio Case](https://it-planner-portfolio-gayeonbaek.sungwonhong.chatgpt.site/projects/project-02)
+[**포트폴리오 전체 보기 ↗**](https://www.notion.so/4138072663618120a5cfc308ded39349) · [이메일](mailto:bgy030448@naver.com)
 
 ---
 
-## How I Work | 일하는 방식
+## 주요 프로젝트
 
-```text
-Problem → Success Signal → Requirement → State & Policy → Data/API → Acceptance → QA
-```
+| 프로젝트 | 다룬 문제와 설계 방향 | 기간 · 팀 | 담당 역할 |
+| --- | --- | --- | --- |
+| [**Mindot**](https://www.notion.so/41380726636181b68f53ca6161e4761b) | 정리되지 않은 감정도 기록하고, AI의 해석을 직접 확인하는 과정 | 2026.08–09 · 3인 | 프론트엔드 · 기획 · UX |
+| [**LinkUs**](https://www.notion.so/41380726636181a2a1e0ce00098aadc2) | 장소를 중심으로 주변 게시물과 대화를 탐색하는 과정 | 2026.06–07 · 5인 | 프론트엔드 · 화면·기능 정책 · QA |
+| [**Questlog**](https://www.notion.so/41380726636181e88d4fc24654f6c4c4) | 계획을 놓친 뒤 실행 분량과 시점을 조정해 다시 시작하는 과정 | 2026.07–08 · 3인 | UX·시각 디자인 · 기획·프론트엔드 협업 |
 
-- 화면을 그리기 전에 무엇을 `Done`으로 볼지 먼저 정의합니다.
-- Happy path뿐 아니라 Empty·Loading·Failed·Forbidden·Recovery 상태를 함께 설계합니다.
-- 검토한 대안, 선택 이유, 감수한 Trade-off, 아직 부족한 Evidence를 기록합니다.
-- 구현 수치를 사용자 성과처럼 표현하지 않습니다.
+### 01. Mindot
+**AI의 해석을 사용자가 확인하는 감정 기록 서비스**
 
-## Working Context | 협업 영역
+감정이 복잡한 순간에는 상황과 생각을 구분해 쓰는 일부터 부담이 될 수 있습니다. 한 줄의 음성·텍스트를 먼저 남기고, 내용을 정리하는 과정은 그 뒤에 두었습니다.
 
-Product — Requirements · IA · User Flow · Feature Policy · WBS · Acceptance Criteria · QA  
-Technical — React · JavaScript · REST API · Spring Boot · MySQL · Redis · Supabase · PostgreSQL · RLS
+- **기록의 보존** — AI 분석 전에 원문을 저장하도록 구성해, 분석에 오류가 생겨도 입력한 내용을 다시 쓸 필요가 없도록 했습니다.
+- **해석의 확인** — AI가 정리한 내용을 사용자가 확인·수정·거절할 수 있도록 설계했습니다. 이후의 성찰과 패턴 분석이 어떤 기록을 근거로 삼는지도 함께 고려했습니다.
+- **담당 업무** — 입력·AI 제안·확인 화면을 구현하고, AI·백엔드 담당자와 저장 상태, 처리 결과, 오류 시 안내 방식을 검토했습니다.
+
+[기획과 담당 업무](https://www.notion.so/41380726636181b68f53ca6161e4761b) · [소스 코드](https://github.com/JephyrWing/project_mindot) · [시연 영상](https://drive.google.com/file/d/1ys8IQEg-66td__35yMLpXfY3RyBIxcIU/view) · [프로젝트 문서](https://www.notion.so/41380726636181c79bd4cab78da5ec4d)
+
+### 02. LinkUs
+**장소를 중심으로 탐색하고 대화하는 커뮤니티**
+
+주변 정보를 찾을 때 글의 내용과 위치를 따로 파악해야 하는 과정에 주목했습니다. 먼저 장소를 보고, 그곳의 게시물과 최근 대화를 확인하도록 탐색 순서를 구성했습니다.
+
+- **장소가 이어지는 탐색** — 게시물·로드뷰와 위치 채팅의 이용 목적을 구분하고, 화면을 전환해도 보고 있던 장소를 이해할 수 있도록 흐름을 정리했습니다.
+- **기능별 이용 정책** — 비회원의 탐색과 위치 채팅, 회원의 게시물 작성·좋아요 등 행동별 권한을 정리하고 화면 안내와 API의 처리 방식을 대조했습니다.
+- **담당 업무** — 지도·채팅·신고·관리자 화면 구현과 통합 QA에 참여했습니다. 요구사항을 화면 경로, API·데이터, 정상·오류 상태와 QA 항목으로 연결했습니다.
+
+[기획과 담당 업무](https://www.notion.so/41380726636181a2a1e0ce00098aadc2) · [소스 코드](https://github.com/JephyrWing/project_linkus) · [시연 영상](https://drive.google.com/file/d/1yFIcC6rq7uP3oXhpf3Zs-E2tLZTvvJkB/view) · [프로젝트 문서](https://www.notion.so/3ba807266361817bae22c40d0f20037f)
+
+### 03. Questlog
+**계획을 놓친 뒤에도 다시 시작할 수 있는 루틴 서비스**
+
+계획을 세웠을 때와 실행할 때의 상황은 달라질 수 있습니다. 완료 여부를 보여 주는 데 더해, 실행하지 못한 뒤에도 같은 목표를 이어갈 수 있는 선택지를 기획했습니다.
+
+- **오늘 할 일의 범위** — 큰 목표를 하루 1–3개 퀘스트로 나누고, 캐릭터와 보상보다 오늘 실행할 행동을 먼저 파악할 수 있도록 화면의 정보 순서를 정리했습니다.
+- **다시 시작하는 선택지** — 분량을 줄이는 ‘작게 하기’, 감점 없이 남겨 두는 ‘보류하기’, 시점을 바꾸는 ‘내일 이어하기’를 설계했습니다.
+- **담당 업무** — UX와 시각 디자인을 중심으로 홈·퀘스트 보드, 캐릭터·상태창, 반응형 화면과 안내 문구를 다뤘으며, 기획·프론트엔드·QA에 협업했습니다.
+
+회복 선택 이후의 효과를 살피기 위해 **실패 후 48시간 복귀율**을 측정 지표로 정했습니다. 다음 검증에서는 선택지를 누르는 행동이 실제 퀘스트 실행으로 이어지는지 확인하고자 합니다.
+
+[기획과 담당 업무](https://www.notion.so/41380726636181e88d4fc24654f6c4c4) · [소스 코드](https://github.com/jongshh/reminder) · [프로젝트 문서](https://www.notion.so/3bb807266361813d944ae247870f46d8)
 
 ---
 
-기획 의도부터 구현 세부사항까지 함께 연결할 기획자를 찾고 있다면 [bgy030448@naver.com](mailto:bgy030448@naver.com)으로 연락해 주세요.
+## 기획과 구현에서 맡은 일
+
+| 영역 | 다루는 내용 | 프로젝트에서의 적용 |
+| --- | --- | --- |
+| 서비스 기획 | 문제 정의 · 요구사항 · 사용자 흐름 · 기능·권한 정책 | LinkUs의 요구사항과 화면·API·QA 항목 연결 |
+| UX 설계 | 정보 구조 · 화면 상태 · 예외 상황 · 안내 문구 · 반응형 화면 | Questlog의 분량 조정·보류·이월 선택지와 상태창 |
+| 프론트엔드·협업 | React 화면 구현 · API 연동 · 저장·인증 상태 · 통합 QA | Mindot의 입력·AI 제안·사용자 확인 과정 |
+
+**구현에 사용한 도구** · React · JavaScript · Vite  
+**문서·협업 도구** · GitHub · Notion · Google Drive  
+**프로젝트 연동 환경** · Spring Boot API · Supabase · Gemini · LangChain
+
+## 일하는 방식
+
+1. **기능을 정하기 전에 이용 상황을 정리합니다.** 사용자가 무엇을 하려는지, 어느 단계에서 어려움을 겪는지부터 설명합니다.
+2. **완료하지 못한 과정도 설계합니다.** 입력 내용의 보존, 권한이 없을 때의 안내, 오류 이후의 재시도와 중단 후 복귀를 함께 살핍니다.
+3. **문서와 화면, 처리 규칙을 대조합니다.** 같은 기능을 팀원들이 다르게 이해하지 않도록 요구사항과 실제 동작의 차이를 확인합니다.
+4. **선택 이후의 행동까지 확인합니다.** 기록을 마쳤는지, 정보를 찾았는지, 중단했던 일을 다시 시작했는지 살펴볼 기준을 정합니다.
+
+---
+
+**처음의 계획대로 행동하지 못한 사람도 다시 이용할 수 있는 서비스를 만들고 싶습니다.**
+
+백가연 · [bgy030448@naver.com](mailto:bgy030448@naver.com) · [포트폴리오](https://www.notion.so/4138072663618120a5cfc308ded39349)
