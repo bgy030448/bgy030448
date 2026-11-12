@@ -1,2 +1,2 @@
-- 👋 백가연입니다. IT 서비스 기획과 UX 설계를 합니다.
+- 👋 백가연입니다.
 - 📬 [bgy030448@naver.com](mailto:bgy030448@naver.com) · [IT 포트폴리오](https://www.notion.so/4138072663618120a5cfc308ded39349)
